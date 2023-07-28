@@ -9,13 +9,13 @@
 
 🔭 I'm currently working on my **Front-End Journey Blog** project <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🌱 I’m currently learning everything **(a joke)** React with TypeScript, Redux and Redux Toolkit on project.
+🌱 I’m currently learning everything **(a joke:information_desk_person:)** React with TypeScript, Redux and Redux Toolkit on project.
 
 👯 I’m looking to collaborate on **Open source Project.**
 
 
 ## ⚡ Tech Stack
-Here are technologies and tools (and other things:blush:) I've picked up along my learning journey.
+Here are technologies and tools (and other things:sparkles:) I've picked up along my learning journey.
 
 
 📋 Languages
