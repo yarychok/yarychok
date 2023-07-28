@@ -1,8 +1,8 @@
 <h1 align='center'>
-  Hi <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, I'm Liubomyr👩‍💻
+  Hey <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, I'm Liubomyr.
 </h1>
 <h3 align='center'>
-  A passionate self-taught Software Engineer from Lviv.
+  A passionate self-taught Software Engineer👩‍💻 from Lviv.
 </h3>
 
 🔭 I'm currently working on my **Front-End Journey Blog** project <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
