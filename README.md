@@ -71,4 +71,4 @@ Here are technologies and tools (and other things:sparkles:) I've picked up alon
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### ✉️ Mail me: liubomyr.yarych@gmail.com
+### ✉️ Mail me: yarych.liubomyr@gmail.com
