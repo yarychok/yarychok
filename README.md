@@ -8,7 +8,7 @@
   And passionate learner 🎓
 </h3>
 
-🔭 I'm currently working on my **Front-End Journey Blog** project <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+🔭 I'm currently working on my **Front-End Journey Blog** project <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 🌱 I’m currently learning everything **(a joke)** React with TypeScript, Redux and Redux Toolkit on project.
 
