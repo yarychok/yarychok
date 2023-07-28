@@ -6,12 +6,16 @@
 </h3>
 
 🔭 I'm currently working on my **Front-End Journey Blog** project <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 🌱 I’m currently learning everything **(a joke)** React using TypeScript, Redux and Redux Toolkit.
+
 👯 I’m looking to collaborate on **Open source Project.**
+
 
 ## ⚡ Tech Stack
 
 Here are technologies and tools I've picked up along my learning journey.
+
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
