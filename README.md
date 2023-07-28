@@ -2,9 +2,7 @@
   Hey <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, I'm Liubomyr.
 </h1>
 <h3>
-  A self-taught Software Engineer👩‍💻 from Lviv.
-</h3>
-<h3>
+  A self-taught Developer👩‍💻 from Lviv.
   And passionate learner 🎓
 </h3>
 
