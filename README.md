@@ -2,7 +2,7 @@
   Hey, I'm Liubomyr👋.
 </h1>
 <h3 align="center">
-  A self-taught Developer👩‍💻 from Lviv. <br>
+  A self-taught Developer👩‍💻 from Ukraine, Lviv. <br>
   And passionate learner 🎓
 </h3>
 
