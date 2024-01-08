@@ -3,11 +3,11 @@
 </h1>
 <h3 align="center">
   A self-taught Developer👩‍💻 from Ukraine, Lviv. <br>
-  And passionate learner 🎓
+  And a passionate learner 🎓
 </h3>
 
 
-🔭 I'm currently working on front-end on **Blockchain explorer** project <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🔭 Currently, I'm immersed in front-end development, working on a **Blockchain explorer** project. <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 👯 I’m looking to collaborate on **Open source Project.**
 
