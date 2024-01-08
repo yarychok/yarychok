@@ -13,7 +13,7 @@
 
 
 ## ⚡ Tech Stack
-Here are technologies and tools (and other things:sparkles:) I've picked up along my learning journey.
+Here are technologies and tools (and other things :sparkles:) I've picked up along my learning journey.
 
 📋 Languages
 
