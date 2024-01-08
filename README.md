@@ -7,13 +7,13 @@
 </h3>
 
 
-🔭 Currently, I'm immersed in front-end development, working on a **Blockchain explorer** project. <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently, I'm immersed in front-end development, working on a **Blockchain explorer** project. 
 
-👯 I’m looking to collaborate on **Open source Project.**
+:eyes: I’m looking to collaborate on **Open source Project.**
 
 
 ## ⚡ Tech Stack
-Here are technologies and tools (and other things :sparkles:) I've picked up along my learning journey.
+Here are technologies and tools (and other things :raised_hands:) I've picked up along my learning journey and have experience with:
 
 📋 Languages
 
