@@ -7,7 +7,7 @@
 </h3>
 
 
-<img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently, I'm immersed in front-end development, working on a **Blockchain explorer** project. 
+:star: Currently, I'm immersed in front-end development, working on a community **Blockchain explorer** project. <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :eyes: I’m looking to collaborate on **Open source Project.**
 
